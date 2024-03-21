@@ -25,7 +25,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/rectangle.png" alt="laptop image" width="250" />
+        <img src="/images/area_of_trinagle.png" alt="">
       </div>
       <br />
       <div class="page-content">Enter the length and width in cm.</div>
