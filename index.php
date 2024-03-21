@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Area and Perimeter of Rectangle, in PHP" />
@@ -15,6 +16,7 @@
   <link rel="manifest" href="site.webmanifest" />
   <title>Area and Perimeter of Rectangle,in PHP</title>
 </head>
+
 <body>
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
@@ -25,7 +27,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="/images/area_of_trinagle.png" alt="">
+        <img src="./images/area_of_trinagle.png">
       </div>
       <br />
       <div class="page-content">Enter the length and width in cm.</div>
@@ -52,4 +54,5 @@
     </main>
   </div>
 </body>
+
 </html>
